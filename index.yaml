@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  scratch:
+  - apiVersion: v2
+    created: "2022-09-05T15:02:34.58178607Z"
+    description: deploy any manifests via values
+    digest: ccb524fd645935877743815cda55b07989d883cba42f914cff3a9aa6448a80af
+    name: scratch
+    urls:
+    - https://github.com/ryodocx/helm-charts/releases/download/scratch-0.1.0/scratch-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-05T15:02:34.58179177Z"
