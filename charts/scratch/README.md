@@ -1,6 +1,6 @@
 # scratch
 
-deploy any manifest via values
+deploy any manifests via values
 
 ### Usage
 
