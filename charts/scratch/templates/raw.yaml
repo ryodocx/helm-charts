@@ -1,0 +1,7 @@
+{{- with .Values.raw }}
+{{- range $i, $y := . }}
+---
+# .Values.raw[{{ $i }}]
+{{ . | toYaml }}
+{{- end }}
+{{- end }}

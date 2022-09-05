@@ -1,0 +1,7 @@
+{{- with .Values.tpl }}
+{{- range $i, $y := . }}
+---
+# .Values.tpl[{{ $i }}]
+{{ tpl (. | toYaml) $ }}
+{{- end }}
+{{- end }}
