@@ -1,4 +1,4 @@
-source: https://github.com/ryodocx/helm-charts
+source: [https://github.com/ryodocx/helm-charts](https://github.com/ryodocx/helm-charts)
 
 ## Usage
 
